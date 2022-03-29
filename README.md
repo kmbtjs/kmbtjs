@@ -37,11 +37,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://soliditylang.org/"><img alt="Solidity logo" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="40" height="40"></a>
 </p>
-
+<details><summary>:bulb: Github Stats</summary>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmbtjs&show_icons=true&locale=en&layout=compact" alt="kmbtjs" /></p>
+</details>
 
+<details><summary>:bulb: Most Used Languages</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmbtjs&show_icons=true&locale=en" alt="kmbtjs" /></p>
-
+</details>
 
 <h3>Reach out to me via:</h3>
 <a href="https://www.instagram.com/kamerbtopal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamerbtopal" height="30" width="40" /></a>
