@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, It's Kamer Berat Topal</h1>
-<h3 align="center">I am Junior Backend Developer living in Turkey. Hopefully abroad soon 🌱</h3>
+<h3 align="center">I am Backend Developer living in Turkey. Hopefully abroad soon 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
