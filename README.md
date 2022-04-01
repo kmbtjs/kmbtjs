@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
-- 🔭 I’m currently working on [Food Recipe App](https://github.com/kmbtjs/Food-App-Project)
+- 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **Ruby on Rails, TailwindCSS, JavaScript**
+- 🌱 I’m currently learning **.Net Core, JavaScript**
 
 - ⚡ Serious fact is **I am hardworking and dedicated person**
 
