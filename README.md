@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ...
 
-- 🌱 I’m currently learning **.Net Core, JavaScript**
+- 🌱 I’m currently learning/re-learning **.Net Core, JavaScript**
 
 - ⚡ Serious fact is **I am hardworking and dedicated person**
 
