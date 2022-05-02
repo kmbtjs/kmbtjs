@@ -39,7 +39,7 @@
 <a href="https://soliditylang.org/"><img alt="Solidity logo" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="40" height="40"></a>
 </p>
 <details><summary>:bulb: Github Stats</summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kmbtjs&show_icons=true&locale=en" alt="kmbtjs" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kmbtjs&show_icons=true&locale=en" alt="kmbtjs" /></p>
 </details>
 
 <details><summary>:bulb: Most Used Languages</summary>
