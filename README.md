@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
-- 🔭 I’m currently working at Bt Bilgi Technologies.
+- 🔭 I’m currently working at BtBilgi.
 
 - 🌱 I’m currently learning/re-learning **.Net Core, JavaScript**
 
