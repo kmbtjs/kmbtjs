@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, It's Kamer Berat Topal</h1>
-<h3 align="center">I am Backend Developer living in Turkey. Hopefully abroad soon 🌱</h3>
+<h3 align="center">I am Software Engineer living in Turkey. Hopefully abroad soon 🌱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
-- 🔭 I’m currently working as Software Engineer at Bt Bilgi.
+- 🔭 I’m currently working as Software Engineer at Vodafone Business via BT Bilgi.
 
-- 🌱 I’m currently learning **CSS, JavaScript, .Net Core**
+- 🌱 I’m currently working with and learning **JavaScript, .Net Core, React**
 
 - ⚡ Serious fact is **I am hardworking and dedicated person**
 
