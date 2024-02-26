@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
-- 🔭 I’m currently working as Software Engineer at Vodafone Business via BT Bilgi.
+- 🔭 I’m currently working as FullStack Software Engineer at Vodafone Business via BT Bilgi & Java Software Engineer at Ziv4 Technology OÜ.
 
-- 🌱 I’m currently working with and learning **JavaScript, .Net Core, React**
+- 🌱 I’m currently working with and learning **JavaScript, .Net Core, React, Java**
 
 - ⚡ Serious fact is **I am hardworking and dedicated person**
 
