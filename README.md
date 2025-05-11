@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as FullStack Software Engineer at Vodafone Business via BT Bilgi & Java Software Engineer at Ziv4 Technology OÜ.
 
-- 🌱 I’m currently working with and learning **JavaScript, .Net Core, React, Java**
+- 🌱 I’m currently working with and learning **.Net Core**
 
 - ⚡ Serious fact is **I am hardworking and dedicated person**
 
@@ -32,12 +32,12 @@
 <h3 align="left">Databases:</h3>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <h3 align="left">My Learning Roadmap:</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+<a href="https://redis.io/"><img alt="Redis Logo" src="https://www.svgrepo.com/show/303460/redis-logo.svg" width="40" height="40"></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img alt="Docker Logo" src="https://www.svgrepo.com/show/452192/docker.svg" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="ElasticSearch Logo" width="40" height="40"/></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr/" target="_blank" rel="noreferrer"> <img src="https://az-icons.com/export/icons/a39e7fd3307ff56cc26d5a64eec7bf3f.svg" alt="SignalR Logo" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" alt="RabbitMQ Logo" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://soliditylang.org/"><img alt="Solidity logo" src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="40" height="40"></a>
 </p>
 <details><summary>:bulb: Github Stats</summary>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmbtjs&show_icons=true&locale=en" alt="kmbtjs" /></p>
