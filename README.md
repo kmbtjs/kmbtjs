@@ -33,13 +33,6 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr/" target="_blank" rel="noreferrer"> <img src="https://az-icons.com/export/icons/a39e7fd3307ff56cc26d5a64eec7bf3f.svg" alt="SignalR Logo" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
-<details><summary>:bulb: Github Stats</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmbtjs&show_icons=true&locale=en" alt="kmbtjs" /></p>
-</details>
-
-<details><summary>:bulb: Most Used Languages</summary>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmbtjs&show_icons=true&locale=en&layout=compact" alt="kmbtjs" /></p>
-</details>
 
 <h3>Reach out to me via:</h3>
 <a href="https://www.instagram.com/kamerbtopal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kamerbtopal" height="30" width="40" /></a>
