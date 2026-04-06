@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
 - 🔭 Currently working as FullStack Software Engineer at Vodafone Business via BT Bilgi.
-<h3 align="left">AI:</h3>
-<a href="https://claude.ai" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="go" width="40" height="40"/> </a>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -18,6 +17,8 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a>
+<h3 align="left">AI:</h3>
+<a href="https://claude.ai" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" alt="go" width="40" height="40"/> </a>
 <h3 align="left">Tools & Technologies:</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img alt="Docker Logo" src="https://www.svgrepo.com/show/452192/docker.svg" width="40" height="40"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" alt="RabbitMQ Logo" width="40" height="40"/> </a>
