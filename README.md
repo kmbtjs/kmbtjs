@@ -1,14 +1,9 @@
 <h1 align="center">Hi There 👋, It's Kamer Berat Topal</h1>
-<h3 align="center">I am Software Engineer living in Turkey. Hopefully abroad soon 🌱</h3>
+<h3 align="center">Software Engineer living in Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmbtjs&label=Profile%20views&color=0e75b6&style=flat" alt="kmbtjs" /> </p>
 
-- 🔭 I’m currently working as FullStack Software Engineer at Vodafone Business via BT Bilgi.
-
-- 🌱 I’m currently working with and learning **.Net Core**
-
-- ⚡ Serious fact is **I am hardworking and dedicated person**
-
+- 🔭 Currently working as FullStack Software Engineer at Vodafone Business via BT Bilgi.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
