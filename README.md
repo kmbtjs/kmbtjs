@@ -17,8 +17,9 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/> </a>
-<h3 align="left">Tools, Technologies & Operating System:</h3>
+<h3 align="left">Tools & Technologies:</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img alt="Docker Logo" src="https://www.svgrepo.com/show/452192/docker.svg" width="40" height="40"/> </a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" alt="RabbitMQ Logo" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/103/103093.png?w=826&t=st=1648517064~exp=1648517664~hmac=80fb932584a2320bb68f94681bd016fa9724908f2da80e0c258c7e74c11ad93d" alt="API" width="40" height="40"/></a>
@@ -30,7 +31,6 @@
 <h3 align="left">My Learning Roadmap:</h3>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="ElasticSearch Logo" width="40" height="40"/></a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/signalr/" target="_blank" rel="noreferrer"> <img src="https://az-icons.com/export/icons/a39e7fd3307ff56cc26d5a64eec7bf3f.svg" alt="SignalR Logo" width="40" height="40"/> </a>
-<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354250/rabbitmq-icon.svg" alt="RabbitMQ Logo" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 <details><summary>:bulb: Github Stats</summary>
